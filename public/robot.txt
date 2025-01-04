@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_next/
+Disallow: /api/
+Disallow: /404
+Disallow: /500
+Disallow: /private-page
+
+# Optional: Specify your sitemap URL
+Sitemap: https://if-trinitas.algoritma.my.id/sitemap.xml
