@@ -80,7 +80,7 @@ export default async function RootLayout({
               ) : (
                 <div className="flex flex-col items-center py-28 lg:flex-row">
                   <h6 className="mb-4 text-center text-xs font-medium leading-tight tracking-tight lg:mb-0 lg:w-1/2 lg:pr-4 lg:text-left">
-                    Copyright 2025 Johannes Alexander Putra
+                    Copyright 2025 Team Pengajar IT SMA Trinitas
                   </h6>
 
                   <div className="flex flex-col items-center justify-center lg:w-1/2 lg:flex-row lg:pl-4">
