@@ -25,7 +25,7 @@ export const description = [
         _key: "4a58edd077882",
         _type: "span",
         marks: [],
-        text: " and ",
+        text: " dan ",
       },
       {
         _key: "4a58edd077883",
