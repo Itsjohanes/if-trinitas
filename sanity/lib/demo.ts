@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = "SMA Trinitas";
+export const title = "Informatika SMA Trinitas";
 
 export const description = [
   {
@@ -13,13 +13,13 @@ export const description = [
         _key: "4a58edd077880",
         _type: "span",
         marks: [],
-        text: "A statically generated blog example using ",
+        text: "Bagian dari ",
       },
       {
         _key: "4a58edd077881",
         _type: "span",
         marks: ["ec5b66c9b1e0"],
-        text: "Next.js",
+        text: "SMA Trinitas",
       },
       {
         _key: "4a58edd077882",
@@ -31,7 +31,7 @@ export const description = [
         _key: "4a58edd077883",
         _type: "span",
         marks: ["1f8991913ea8"],
-        text: "Sanity",
+        text: "YPII Bandung",
       },
       {
         _key: "4a58edd077884",
@@ -44,12 +44,12 @@ export const description = [
       {
         _key: "ec5b66c9b1e0",
         _type: "link",
-        href: "https://nextjs.org/",
+        href: "https://smatrinitas.sch.id/",
       },
       {
         _key: "1f8991913ea8",
         _type: "link",
-        href: "https://sanity.io/",
+        href: "https://ypiibandung.or.id/",
       },
     ],
     style: "normal",
